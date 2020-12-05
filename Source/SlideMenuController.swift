@@ -2,7 +2,7 @@
 //  SlideMenuController.swift
 //
 //  Created by Yuji Hato on 12/3/14.
-//
+//. Updated by Onur Kilic on 5/12/20.
 
 import Foundation
 import UIKit
